@@ -7,4 +7,4 @@ url = "https://www.python.org/"
 # Get the page content
 req = urllib.request.Request(url)
 with urllib.request.urlopen(req) as response:
-page_content = response.read()
+  page_content = response.read()
