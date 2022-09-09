@@ -23,4 +23,3 @@ distance2 = Distance(3)
 print("3 kilometers is " + str(distance2.miles) + " miles.")
 distance2.miles = 3
 print(str(distance2.miles) + " miles is " + str(distance2.km) + " kilometers.")
-\
