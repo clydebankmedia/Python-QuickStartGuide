@@ -1,4 +1,4 @@
-bottles = 100
+bottles = 99
 while bottles > 0:
 	print(str(bottles) + " bottles of beer on the wall. ")
 	print(str(bottles) + " bottles of beer.")
