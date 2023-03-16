@@ -7,6 +7,6 @@ if a > b:
     if b != c:
         print("but b is not equal to c")
     else:
-        print("b is less than c")
+        print("b is equal to c")
 else:
     print("a is less than b")
