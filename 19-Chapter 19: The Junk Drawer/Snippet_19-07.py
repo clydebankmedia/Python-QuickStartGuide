@@ -2,8 +2,8 @@
 import hashlib
 
 # Define two sets of data
-original_data = "The quick brown foxed jumped over the lazy red dog."
-new_data = "The quick brown foxed leaped over the spry orange cat."
+original_data = "The quick brown fox jumped over the lazy red dog."
+new_data = "The quick brown fox leaped over the spry orange cat."
 
 # Hash them both
 original_hash = hashlib.sha256(original_data.encode()).hexdigest()
