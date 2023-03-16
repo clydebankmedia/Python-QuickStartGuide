@@ -3,7 +3,7 @@ def bottles_song(start=1):
     # Set the initial number of bottles to the start argument
     bottles = start
     # Loop through until bottles are restored
-    while bottles <= 100:
+    while bottles <= 99:
         # Display the song
         this_verse = []
         this_verse.append(str(bottles) + " bottles of beer on the wall. ")
